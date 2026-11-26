@@ -92,11 +92,13 @@ Salary Scatter
 ![Data Model](Images/Data_model.png)
 
 ### Demo
-<div align="center">Slicer Demo</div>
 ![Dashboard Demo](Images/Dashboard_Page1.gif)
+<div align="center">Slicer Demo</div>
 
-<div align="center">DrillThrough Demo</div>
+
+
 ![Drill Through Demo](Images/DrillThrough_Effect.gif)
+<div align="center">Drill through Demo</div>
 
 ---
 
